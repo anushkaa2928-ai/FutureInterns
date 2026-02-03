@@ -10,14 +10,21 @@ The objective was to identify security weaknesses in a web application, analyze 
 
 Objectives
 .Identify common web vulnerabilities
+
 .Evaluate associated risks
+
 .Analyze server misconfigurations
+
 .Test authentication and session security
+
 .Provide mitigation recommendations
+
 
 Tools Used
 .Browser Developer Tools
+
 .Manual Testing
+
 .Security Headers.com
 
 Summary
